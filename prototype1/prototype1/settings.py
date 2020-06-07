@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'accounts',
     'theory',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -127,4 +128,9 @@ STATICFILES_DIRS =[
     os.path.join(BASE_DIR,'static'),
 ]
 
-LOGIN_REDIRECT_URL = 'home'
+LOGIN_REDIRECT_URL = ''
+AUTH_USER_MODEL = 'accounts.User'
+AUTHENTICATION_BACKENDS = (
+        'django.contrib.auth.backends.ModelBackend',
+        'accounts.backends.UserBackend',
+    )
