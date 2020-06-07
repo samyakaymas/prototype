@@ -1,0 +1,2278 @@
+{
+    "Trigonometric Ratios, Functions, and Identities": 
+    {
+      "Fundamentals of Trigo": 
+      [
+        "Measurement of Angles (1.5)",
+        "Definition of Sin, Cos, Tan (0.25)",
+        "Definition of Cosec, Sec, Cot (0.25)",
+        "Unit circle definition (0.25)"
+      ],
+      "Domain, Range, Graph of Trigo": 
+      [
+        "Domain, Range, Graph Sin(0.25)",
+        "Domain, Range, Graph Cos (0.25)",
+        "Domain, Range, Graph Tan (0.25)",
+        "Domain, Range, Graph Cosec (0.25)",
+        "Domain, Range, Graph Sec (0.25)",
+        "Domain, Range, Graph Cot (0.25)"
+      ],
+	  "Signs of Ratios in Quadrants":
+	  [
+		"Unit circle definition (0.25)",
+		"ASTC (All Silver Tea Cups)(0.25)"
+	  ],
+	  "Allied Angles":
+	  [
+		"180° - A (0.25)",
+		"180° + A(0.25)",
+		"360° - A(0.25)",
+		"90° - A(0.25)",
+		"90° + A(0.25)",
+		"270° - A(0.25)",
+		"270° + A(0.25)",
+		"n(90°) + A method(0.25)" 
+	  ],
+	  "Basic trig identities":
+	  [
+		"Sin and Cos(0.25)",
+		"Tan and Sec(0.25)",
+		"Cot and Cosec(0.25)"
+	  ],
+	  "Standard Angles":
+	  [
+		"0°, 30°, 45°, 60°, 90°(0.5)"
+	  ],
+	  "Compound Angles Formula":
+	  [
+		"sin(A+B) and sin(A-B) (0.5)",
+		"cos(A+B) and cos(A-B) (0.5)",
+		"tan(A+B) and tan(A-B) (0.5)",
+		"Expansion of cot(A土B) (0.5)"
+	  ],
+	  "Factorisation, De Factorisation":
+	  [ 
+		"(SinC+sinD) and (sinC-sinD) (0.5)",
+		"(cosC+cosD) and (cosC-cosD) (0.5)",
+		"Formula of 2 sinA cosB (0.5)",
+		"Formula of 2 cosA sinB (0.5)",
+		"Formula of 2 cosA cosB (0.5)",
+		"Formula of 2sinA sinB (0.5)"
+	  ],
+	  "15°, 75°":
+	  [
+		"15° (0.25)",
+		"75°(0.25)"
+	  ],
+	  "Multiple angles Formula":
+	  [
+		"sin2A (0.5)",
+		"cos2A(0.5)",
+		"tan2A (0.5)",
+		"sin3A (0.5)",
+		"cos3A (0.5)",
+		"tan3A(0.5)"  
+	  ],
+	  "18°, 36°, 54°, 72°":
+	  [
+		"18° (0.5)",
+		"36° (0.5)",
+		"54° and 72°(0.5)"
+	  ],
+	  "Half angle Formula":
+	  [
+		"sin(A/2) formula(0.5)",
+		"cos(A/2) formula(0.5)",
+		"tan(A/2) formula(0.5)",
+		"sin(A/2) 土 cos (A/2)(0.5)",
+		"cot(A/2) 土tan(A/2)(0.5)"	  
+	  ],
+	  "22.5° and 7.5° ":
+	  [
+		"22.5°(0.5)",
+		"7.5°(0.5)"  
+	  ],
+	  "A,(60°+A), (60°-A)":
+	  [
+		"sinA.sin(60°-A).sin(60°+A)(0.5)",
+		"cosA.cos(60°-A).cos(60°+A)(0.5)",
+		"tanA.tan(60°-A).tan(60°+A)(0.5)"  
+	  ],
+	  "A+B+C = 180°, In triangle ABC":
+	  [
+		"tanA + tanB + tanC(0.5)",
+		"∑tan(A/2)tan(B/2)(0.5)",
+		"sin2A + sin2B + sin2C(0.5)",
+		"Cos2A + Cos2B + Cos2C(0.5)",
+		"sinA + sinB + sinC(0.5)",
+		"cosA + cosB + cosC(0.5)"
+	  ],
+	  "Max and Min in Trigo":
+	  [
+		"Whole Square Method(0.5)",
+		"Reciprocal Based (Acosx+Bsecx)(0.5)",
+		"asinx + bcosx(0.5)"
+	  ],
+	  "Sin and Cos of an AP":
+	  [
+		"Sin of an AP(1)",
+		"Cos of an AP(1)"
+	  ],
+	  "Trigonometry and other chapters":
+	  [
+		"Complex numbers(1)",
+		"Theory of equations(1)",
+		"Series (telescoping)(1)"
+	  ]
+    },
+	"Trigonometric Equations": 
+	{
+      "Introduction": 
+      [
+        "Definition of T.E.(0.25)",
+		"Solution or root of T.E.(0.25)",
+		"Principal solution of T.E.(0.25)",
+		"General solution(0.25)"
+      ],
+	  "General solution of some elementary equations":
+	  [
+		"sinx=0,1,-1(0.25)",
+		"cosx=0,1,-1(0.25)",
+		"tanx=0, cotx=0(0.25)"
+	  ],
+	  "Important points to be taken care while solving equations":
+	  [
+		"Domain checking(0.5)",
+		"Avoid squaring(0.5)",
+		"Avoid canceling terms from both side containing unknown(0.5)"
+	  ],
+	  "General solution of some standard equations":
+	  [
+		"sinθ=sinα(0.5)",
+		"cosθ=cosα(0.5)",
+		"tanθ=tanα (0.5)",
+		"sin²θ=sin²α(0.5)",
+		"cos²θ=cos²α(0.25)",
+		"tan²θ=tan²α (0.25)"
+	  ],
+	 	"Different strategies to solve T.E.":
+	 	[
+			"By factorization(0.5)",
+			"By transforming product into sum(0.5)",
+			"By transforming sum into product(0.5)",
+			"By substitution(0.5)",
+			"With the use of boundedness of function(0.5)",
+			"Using graphs(0.5)"
+	 	],
+	 	"Solution of some special equations":
+	 	[
+			"A sinx + B cosx = C(0.5)",
+			"f(x)=√g(x)   (0.5)",          
+			"Simultaneous T. E. in two Variables(0.5)",
+			"Solution in the case of 2 Trigonometric Equations are given(0.5)",
+			"Inequalities(1)",
+			"Miscellaneous Questions(1)"
+	 	]
+	},
+	"Properties of triangle":
+	{
+		"Basic rules in trigonometry":
+		 [
+			"Sine Rule (0.5)",
+			"Cosine Rule  (0.5)",
+			"Napier's Analogy  (0.5)",
+			"Projection Formula (0.5)"
+		 ],
+		 "Formula for Half angle of Triangles":
+		 [
+			"sin A/2 , sin B/2 ,sin C/2   (1)",
+			"cos A/2 ,cos B/2 , cos C/2 (1)",
+			"tan A/2 , tan b/2 , tan C/2 (0.5)"
+		 ],
+		 "Area of Triangle & Heron's Formula":
+		 [
+			"Δ=½ ab sinC=½ bc sinA=½ ca sinB=½ base.height (1) ",
+			"Δ=abc/4R(0.5)",
+			"Heron’s formula(0.5)"
+		 ],
+		 "M-N theorem":
+		 [
+			"Theorem(1)",
+			"Example(1)"
+		 ],
+		 "Circumcentre and Incentre in Trigonometry":
+		 [
+			"Circumcenter (0.25)",
+			"Incentre(0.25)",
+			"In radius r = Δ/s(0.5)",
+			"r =(s-a) tanA/2=(s-b) tanB/2=(s-c) tanC/2 (0.5)",
+			"r= 4RsinA/2sinB/2sinC/2 (0.5)",
+			"distance of incentre from vertex(0.5)",
+			"Length of angle bisector(0.5)"
+		 ],
+		 "centroid and medians":
+		 [
+			"Centroid (0.25)",
+			"Length of medians.(0.5)",
+			"Apollonius theorem (0.5)"
+		 ],
+		 "excentre and ex-radii of a triangle":
+		 [
+			"Def of excentre(0.25)",
+			"Def of ex-radius (0.25)",
+			"r1 =Δ/s-a , r2  =Δ/s-b ,r3 =Δ/s-c (0.5)",
+			"r1= StanA/2, r2 =StanB/2 ,r3=StanC/2 (0.5)",
+			"r1=4RsinA/2cosB/2cosC/2, r2=.... , r3=....... (0.5)",
+			"Distance between incentre and excenter (0.5)",
+			"Distance between excentres (0.5)"
+		 ],
+		 "Orthocentre and pedal triangle":
+		 [
+			"Orthocentre def and positions in diff cases(0.25)",
+			"Distance of Orthocentre from vertices (0.5)",
+			"Distance of Orthocentre from  sides (0.5)",
+			"Distance between Orthocentre and circumcenter (0.5)",
+			"Pedal triangle def.(0.25)",
+			"Sides of pedal triangle (0.5)",
+			"Angles of pedal triangle  (0.5)",
+			"Circumradius of pedal triangle (0.5)",
+			"Area of pedal triangle (0.5)"
+		 ],
+		 "Quadrilateral":
+		 [
+			"Area of Quadrilateral (0.5)",
+			"Area of cyclic Quadrilateral (0.5)",
+			"cosine of angle of cyclic Quadrilateral (0.5)",
+			"Ptolemy’s theorem (1)",
+			"Regular polygon(1)"
+		 ],
+		 "solution of triangles (ambiguous cases)(1)":
+		 [
+			
+		 ]
+  	},	
+  	"Inverse Trigonometric Functions":
+	{
+	 "Definition and basics of I.T. F.":
+	 [
+		"Definition of inverse functions(0.5)",
+		"Intervals for inverse of trigo functions(0.5)",
+		"Graphs of inverse of a function(0.5)"
+	 ],
+	 "Domain,range and graphs of I. T. F":
+	 [
+		"Domain,range and graph of sin⁻¹x (0.25)",
+		"Domain,range and graph of cos⁻¹x (0.25)",  
+		"Domain,range and graph of tan⁻¹x (0.25)",
+		"Domain,range and graph of cosec⁻¹x (0.25)",    
+		"Domain,range and graph of sec⁻¹x (0.25)",   
+		"Domain,range and graph of cot⁻¹x (0.25)"
+	 ],
+	 "Relation of f⁻¹(x) with  f⁻¹(-x) and  f⁻¹(1/x)":
+	 [
+		"Relation of f⁻¹(x) with  f⁻¹(-x)  (0.25)",
+		"Relation of f⁻¹(x) with   f⁻¹(1/x) (0.25)"	 
+	 ],
+	 "Addition of complementary angles":
+	 [
+		"sin⁻¹x+cos⁻¹x=π/2 (0.25)",    
+		"Tan⁻¹x+cot⁻¹x=π/2 (0.25)", 
+		"sec⁻¹x+cosec⁻¹x=π/2 (0.25)"
+	 ],
+	 "Relation between different I.T.F":
+	 [
+		"Convert one I.T.F. into others using triangle(0.5)",
+		"Simplify expression using trigo substitution(0.5)"
+	 ],
+	 "Domain, range and graph of  f( f⁻¹(x))":
+	 [
+		"Sin( sin⁻¹x), cos( cos⁻¹x),tan( tan⁻¹x) (0.25)",    
+		"Sec( sec⁻¹x), cosec( cosec⁻¹x),cot( cot⁻¹x) (0.25)"
+	 ],
+	 "Domain, range and graph of   f⁻¹(f(x))":
+	 [
+		"sin⁻¹(sinx)(0.5)",
+		"cos⁻¹(cosx)(0.5)",
+		"tan⁻¹(tanx)(0.5)",
+		"cosec⁻¹(cosec x)(0.5)",
+		"Sec⁻¹(secx)(0.5)",
+		"cot⁻¹(cotx)(0.5)"
+	 ],
+	 "Sum and difference of angles formulas":
+	 [
+		"sin⁻¹x±sin⁻¹y=   (1)",
+		"cos⁻¹x±cos⁻¹y=   (1)",
+		"tan⁻¹x±tan⁻¹y=   (1)"
+	 ],
+	 "Multiple angle formula":
+	 [
+		"2sin⁻¹x in terms of sin⁻¹x(0.5)",
+		"3sin⁻¹x in terms of sin⁻¹x(0.5)",
+		"2sin⁻¹x in terms of cos⁻¹x(0.5)",
+		"2cos⁻¹x in terms of cos⁻¹x(0.5)",
+		"2tan⁻¹x in terms of sin⁻¹x(0.5)",
+		"2tan⁻¹x in terms of cos⁻¹x(0.5)",
+		"3cos⁻¹x in terms of cos⁻¹x(0.5)",
+		"2tan⁻¹x in terms of tan⁻¹x(0.5)",
+		"3tan⁻¹x in terms of tan⁻¹x(0.5)"
+	 ],
+	 "Some other important concepts":
+	 [
+		"Telescopic series questions(1)",
+		"Boundary value problems(0.5)",
+		"Questions on max. and min.(0.5)",
+		"Examples on Miscellaneous Questions(0.5)"
+	 ],
+	 "Height and distance":
+	 [
+		"Angle of elevation and depression(0.25)",
+		"Method of solving a problem of height and distance(1)",
+		"Geometrical properties and formulae for a triangle(1)",
+		"Bearing(1)",
+		"Some Important Results for Height and Distance(1)"
+	 ]
+	}
+}
+{
+   "Quadratic Equations": 
+    {
+     "Introduction": 
+      [
+		"Definition: Polynomial and quadratic expression(0.25)",
+		"Difference between equation expression identity formula(0.25)",
+		"Identical equations(0.5)",
+		"Rational expression(0.5)"
+      ],
+      "Equation and roots": 
+      [
+		"Quadratic Equation(0.25)",
+		"Factors of Quadratic Equation(0.25)",
+		"Roots of Quadratic Equations(0.25)",
+		"Quadratic formula(0.25)",
+		"Sum,product and difference of roots(0.5) ",
+		"Formation of quadratic with given roots(0.25)"
+      ],
+	  "Nature of Roots of quadratic":
+	  [
+		"Real and distinct(0.25)",
+		"Real and equal(0.25)",
+		"Imaginary(0.25)",
+		"Irrational(0.25)",
+		"Rational(0.25)",
+		"Integer(0.25)",
+		"Conjugate roots(0.25)",
+		"Geometrical Interpretation of Nature of Roots(0.25)"
+	  ],
+	  "Descartes Rule of Sign":
+	  [
+		"In Quadratic Equation(0.25)",
+		"In equation of degree n(0.25)"
+	  ],
+	  "Transformation of equation":
+	  [
+		"kα ,kβ(0.5)",
+		"α±k , β±k(0.5)",
+		"-α ,-β (0.5)",
+		"1/α ,1/β(0.5)",
+		"αⁿ , βⁿ(0.5)"
+	  ],
+	  "Common roots":
+	  [
+		"Condition for at least one common root(1)",
+		"Condition for both common roots(0.5)",
+		"Examples on common roots(0.5)"
+      ],
+	  "Quadratic/Biquadratic":
+	  [
+		"Equation Reducible to Quadratic/Biquadratic(1)"
+		"Examples on Equation Reducible to Quadratic/Biquadratic(1)"
+	  ],
+	  "Quadratic function and its graph":
+	  [
+		"a>0, D>0 (0.25)",
+		"a>0, D=0  (0.25)",
+		"a>0, D<0 (0.25)",
+		"a<0, D>0  (0.25)",
+		"a<0, D=0  (0.25)",
+		"a<0, D<0   (0.25)"
+	  ],
+	  "Wavy curve method":
+	  [
+		"Inequality with linear factor (0.5)",
+		"Inequality with exponent of linear factor(0.5)",
+		"Inequality with rational factors (0.5)"
+	  ],
+	  "Maximum and minimum value of quadratic":
+	  [
+		"a>0(0.5)",
+		"a<0 (0.25)",
+		"Range of rational expression(0.5)"
+	  ],
+	  "Location of roots ":
+	  [
+		"Both roots greater than a real number(0.5)",
+		"Both roots less than a real number(0.5)",
+		"A real number lie between the roots(0.5)",
+		"Exactly one root lie in open interval(0.5)",
+		"Both roots lie in open interval(0.5)",
+		"One root is less than ‘p’ and other is greater than ‘q’(0.5)"
+	  ],
+	  "Polynomial expression":
+	  [
+		"Cubic Equation(0.25)",
+		"Relation between roots and coefficient(0.25)",
+		"condition for three real roots (0.5)",
+		"1 real and one more real and repeated root(0.25)",
+		"1 real and two imaginary roots (0.25)",
+		"Graph of cubic in different conditions(0.5)",
+		"Polynomial of degree n(0.25)",
+		"Relation between roots and coefficients(0.25) ",
+		"Examples on polynomial expressions(0.25)"
+	  ],
+	  "Rolle’s theorem":
+	  [
+		"Statement of rolle’s theorem(0.25)",
+		"Examples on rolle’s theorem(0.5)"
+	  ]
+	},
+	"Sequences and Series (Progressions)":
+	{
+		
+		"Definition of Sequence and Series(0.25)":
+		[
+
+		],
+		"Arithmetic Progressions (AP)":
+	  	[
+			"Definition(0.25)",
+			"General term(0.25)",
+			"Sum of n terms(0.5)",
+			"General term from sum of n terms(0.5)",
+			"Properties of Arithmetic Progression(0.5)",
+			"Arithmetic mean (0.5)",
+			"Inserting n Arithmetic Mean Between 2 Numbers(0.5)"
+	  	],
+			"Geometric Progressions(GP)":
+	  	[
+			"Definition(0.25)",
+			"General term(0.25)",
+			"Sum of n term(0.5)",
+			"Sum of infinite terms(0.5) ",
+			"Properties of geometric Progression(0.5)",
+			"Geometric mean(0.25)",
+			"Inserting n geometric Mean Between 2 Numbers(0.5)"
+	  	],
+	  	"Harmonic progression(HP)":
+	  	[
+			"Definition(0.25)",
+			"General term(0.5)",
+			"Properties of Harmonic Progression(0.5)",
+			"Harmonic mean(0.25)",
+			"Inserting n Harmonic Mean Between 2 Numbers(0.5)"
+	  	],
+	  	"A.M. G.M and H.M":
+	  	[
+			"A.M, G.M, H.M of n positive numbers(0.5)",
+			"Relation Between A.M. G.M and H.M(0.5)"
+	  	],
+	  	"Arithmetic-geometric progression ( AGP) ":
+	  	[
+			"Definition(0.25)",
+			"General term(0.5)",
+			"Sum of n term(0.5)",
+			"Sum of infinite terms(0.5)"
+	  	],
+	  	"Miscellaneous series":
+	  	[
+			"Sum of squares of first n natural numbers(0.5)",
+			"Sum of cubes of first n natural numbers(0.5)",
+			"Difference of terms in AP(0.5)",
+			"Difference of Difference of terms in AP(0.5)",
+			"Difference of terms in GP(0.5)",
+			"Difference of Difference of terms in GP (0.5)",
+			"Vn Method in Progression(0.5)"
+	  	]
+	},
+	"Binomial Theorem":	
+	{
+	  "Factorial":
+	  [
+		"Factorial(0.5)",
+		"Highest power of a prime in n factorial(0.5)",
+		"Highest power of a number in n factorial(0.5)",
+		"Number of trailing zeros in n factorial(0.5)",
+		"Formula and properties of  nCr (0.5)"
+	 ],
+	  "Binomial Expansion":
+	 [
+		"Representation of binomial expression(0.5)",
+		"Pascal's Triangle(0.25)",
+		"Expansion of (x + a)n(0.25)",
+		"Expansion of (x - a)n(0.25)",
+		"rth term of binomial expansion(0.5)",
+		"Finding  Coefficient of xʳ(0.5)"
+	 ],
+	  "Middle term(s)and greatest coefficient(s) in (x + a)n":
+	 [
+		"If n is even(0.5)",
+		"If n is odd(0.25)"
+	 ],
+	 "Numerically Greatest Term":
+	 [
+		 "Numerically Greatest Term(0.5)"
+	 ],
+	 "Binomial Coefficients":
+	 [
+		"Properties of Binomial coefficients(0.5)",
+		"summation of Binomial Coefficients(0.5)",
+		"use of differentiation(1)",
+		"Use of integration (1)",
+		"Use of complex number(1)",
+		"Multiplication of Binomial Coefficients of same Series(1)",
+		"Multiplication of binomial coefficients of different series(1)"
+	 ],
+	 "Multinomial Theorem ":
+	 [
+		"Multinomial Theorem(1)",
+		"Number of distinct terms in multinomial expansions(0.5)"
+	 ],
+	 "Generalised form of binomial theorem":
+	 [
+		"Generalised form (0.5)",
+		"Binomial theorem for negative index(0.5)",
+		"general term of Binomial theorem for negative index(0.5)",
+		"Binomial expansions for any index(0.5)",
+		"Important results of binomial theorem for any index(0.5)"
+	 ],
+	 "Integral and fractional part ":
+	 [
+		 "Integral and fractional part of (p+√q)n   (1)"
+	 ],
+	 "Application of binomial theorem":
+	 [
+		"Last digit (0.25)",
+		"Last two digits(0.5)",
+		"Last three digits(0.5)"
+	 ]
+	},
+	"Permutation and Combination":
+	{
+		"Fundamental principle of counting":
+		[
+			"Addition principle(0.5)",
+			"Multiplication principle(0.5)"
+		],
+		"Combination":
+		[
+			"Introduction of combination(0.25)",
+			"Formula of  nCr & nPr(0.5)",
+			"Selection of objects taken all objects at a time(0.25) ",
+			"Selection of objects taken some objects at time(0.25)",
+			"Conditional combination(0.5)",
+			"Selection of at least one object from n different articles(0.5)",
+			"Selection of at least one object from n identical articles(0.5)",
+			"Selection of objects (Not all distinct)(0.25)",
+			"Combination with repetition(0.5)"
+		],
+		"Permutation":
+		[
+			"Introduction of permutation(0.25)",
+			"Difference between permutation and combination(0.25)",
+			"Conditional Permutation(0.5)",
+			"Permutation not taking all objects at a time(0.5)",
+			"Repetition of objects are not Allowed(0.5)",
+			"Repetition of objects Allowed(0.5)",
+			"Permutations when all the objects are not distinct(0.5)",
+			"Formation of words(0.5)",
+			"Formation of numbers(0.5)",
+			"Rank of words(1)",
+			"Sum of all the numbers formed(1)",
+			"Permutation with repetition(0.5)"
+		],
+		"Circular Permutation":
+		[
+			"Circular arrangement of distinct objects(0.5)",
+			"Circular Permutation when all the Objects are not Different(0.5)",
+			"formation of garland(0.5)",
+		],
+		"Geometrical construction ":
+		[
+			"Number of straight lines from given n points(0.25)",
+			"Number of triangles from given n points(0.25)",
+			"Number of polygons from given n points(0.25)",
+			"Number of diagonals of a polygon of n sides(0.25)",
+			"Number of intersection points of n straight lines(0.25)",
+			"Number of intersection points of  p circles(0.25)",
+			"Number of intersection points of n straight lines and p circles(0.25 ",
+			"Number of squares and number of rectangle in chess board(0.5)",
+			"Grid based problems  (1)"
+		],
+		"Distribution":
+		[
+			"Distribution of distinct objects when a candidate can receive one, or more objects(0.5)",
+			"Distribution of identical objects in distinguishable groups (Multinomial expansion)(0.5)",
+			"Restricted distributions of distinct objects(0.5)",
+			"No. of integral solutions equation/inequation(0.5)"
+		],
+		"Division into group ":
+		[
+			"Division into Group when Groups are of Unequal Size (order Not important)(0.5)",
+			"Division into Group when Groups are of Unequal Size (order important)(0.5)",
+			"Division into Groups when Groups are of Equal Size (Order Important)(0.5)",
+			"Division into Groups when Groups are of Equal Size (Order Not Important)  (0.5)"
+		],
+		"Divisors":
+		[
+			"Total  No. of Divisors of a Number(0.5) ",
+			"No. of even divisors (0.25)",
+			"No. of odd divisors(0.25)",
+			"Divisors of type 4k+2(0.25)",
+			"Sum of all divisors (0.5)",
+			"No. of ways to express a no. as a product of two factors(0.5) ",
+			"No. of ways to express a no. as a product of two co-prime factor(0.5) ",
+			"Divisibility Conditions for Different Numbers(0.5)"
+		],
+		"De-arrangement":
+		[
+			"Simple de-arrangement(0.5)",
+			"Partial de-arrangement(0.25)",
+			"Conditional de-arrangement   (0.5)"
+		],
+		"Inclusion - Exclusion Principle in Combinatorics":
+		[
+			"Inclusion - Exclusion Principle in Combinatorics(1)"
+		]
+	},
+	"Complex Numbers":
+	{
+		"Introduction":
+		[
+			"Introduction of imaginary numbers(0.25)",
+			"Properties of iota(0.5)",
+			"Definition of Complex Numbers(0.25)"
+		],
+		"Algebra of Complex Numbers":
+		[
+			"Addition of Complex Numbers(0.25)",
+			"Subtraction of Complex Numbers(0.25)",
+			"Multiplication of Complex Numbers(0.25)",
+			"Division of Complex Numbers(0.25)"
+		],
+		"Equality of Complex Numbers":
+		[
+			"Equality of Complex Numbers(0.25)"
+		],
+		"Square Roots of Complex Numbers":
+		[
+			"Square Roots of Complex Numbers(0.5)";
+		],
+		"Argand plane ":
+		[
+			"Meaning of Argand Plane(0.25)",
+			"Geometrical representation of Complex Numbers(0.25)",
+			"Parallelogram Law for Complex Numbers(0.25)",
+			"Geometrical representation of algebra of complex number(0.5)"
+		],
+		"Conjugate of a Complex Number":
+		[
+			"Conjugate of a Complex Number(0.25)",
+			"Geometrical position of conjugate(0.25)",
+			"Properties of conjugate(0.5)"
+		],
+		"Modulus of a complex number":
+		[
+			"Modulus of a complex number(0.25)",
+			"Geometrical meaning of modulus of complex number(0.25)",
+			"Properties of Modulus(0.5)",
+			"Triangle Inequality in Complex Numbers(0.5)"
+		],
+		"Amplitude and argument":
+		[
+			"Argument of complex number (0.25)",
+			"Geometrical meaning of argument(0.25)",
+			"Rules for finding argument(0.5)",
+			"Properties of argument(0.5)"
+		],
+		"Other forms of complex number":
+		[
+			"Polar form (0.5)",
+			"Euler form(0.5)"
+		],
+		"De- moivre's Theorem":
+		[
+			"De- moivre's Theorem(0.5)"
+		],
+		"Concept of Rotation in Complex Numbers":
+		[
+			"Concept of Rotation in Complex Numbers(1)",
+			"Relation between vertices of equilateral triangle(0.5)"
+		],
+		"Roots of unity":
+		[
+			"Cube roots of unity(0.5)",
+			"Properties of cube roots of unity(0.5)",
+			"Geometrical representation of cube roots of unity(0.25)",
+			"Nth roots of unity(0.5)",
+			"Properties of nth roots of unity(1)",
+			"Geometrical representation of nth roots of unity(0.25)"
+		],
+		"Geometry of complex number":
+		[
+			"Distance and Section formula in Complex Number(0.5)",
+			"Straight line in Complex Numbers(0.5)",
+			"Parametric form of straight line(0.5)",
+			"General equation of a straight line(0.5)",
+			"Complex slope(0.5)",
+			"Equation of line parallel and perpendicular to a given line(0.5)",
+			"Equation of perpendicular bisector(0.5)",
+			"Distance of a given point from a given line(0.5)",
+			"Centroid ,incentre , orthocentre ,circumcentre(0.5)",
+			"Area of a triangle  (0.5)",
+			"Equation of Circle in different forms(0.5)",
+			"Centre and radius(0.25)",
+			"Condition for four points to be concyclic(0.5)",
+			"Properties of quadrilateral (0.5)",
+			"Equation of Parabolas in Complex Numbers(0.5)",
+			"Equation of Ellipse in Complex Numbers(0.5)",
+			"Equation of Hyperbola in Complex Numbers(0.5)",
+			"Some other standard locus of complex number(0.5)"
+		],
+		"Log of Complex Numbers":
+		[
+			"Log of Complex Numbers(1)"
+		],
+		"Cosine Rule Complex Numbers":
+		[
+			"Cosine Rule Complex Numbers(0.5)"
+		],
+		"Some other important examples and properties":
+		[
+			"Examples on Sum of Trigonometric Series using de Moivre's Theorem(0.5)",
+			"Examples on Equations of Conic Section in Complex Numbers(0.5)",
+			"Examples on Equation of Tangent in Complex Numbers(0.5)",
+			"Examples on Basic Properties (Conic Section & Complex Numbers)(0.5)",
+			"Properties of Polygon(0.5)",
+			"Examples on Area of Polygon(0.5)",
+			"Examples on Sum of all the Diagonals of the Polygon(0.5)",
+			"Examples on Product of all the Diagonals of the Polygon(0.5)"
+		]
+	},
+	"Matrices and Determinants":
+	{
+		"Matrices":
+		[
+			"Definition of Matrix(0.25)",
+			"Terms Related to matrix(0.25)"
+		],
+		"Types of Matrix":
+		[
+			"Row Matrix(0.25)",
+			"Column Matrix(0.25)",
+			"Null Matrix(0.25)",
+			"Horizontal Matrix(0.25)",
+			"Vertical Matrix(0.25)",
+			"Square Matrix(0.25)",
+			"Triangular Matrix(0.25)",
+			"Upper Triangular Matrix(0.25)",
+			"Lower Triangular Matrix(0.25)",
+			"Diagonal Matrix(0.25)",
+			"Scalar Matrix(0.25)",
+			"Unit Matrix(0.25)"
+		],
+		"Algebra of matrices":
+		[
+			"Equality of Two Matrices(0.25)",
+			"Addition and Subtraction of a Matrix(0.25)",
+			"Multiplication of Scalar to a Matrix(0.25)",
+			"Multiplication of Matrices(0.5)",
+			"Integer Powers of Matrices(0.25)",
+			"Equation of Matrices(0.5)",
+			"Matrix Polynomials(0.5)",
+			"Trace of matrix(0.25)"
+		],
+		"Transpose of a matrix":
+		[
+			"Transpose of a Matrix(0.25)",
+			"Properties of Transpose of a Matrix(0.5)",
+			"Symmetric Matrix(0.25)",
+			"Skew Symmetric Matrix(0.25)",
+			"Properties of Symmetric and Skew Symmetric Matrix(0.25)"
+		],
+		"Adjoint of a Matrix":
+		[
+			"Adjoint of a matrix(0.5)",
+			"Properties of Adjoint of a Matrix(0.5)"
+		],
+		"Inverse of Matrix":
+		[
+			"Inverse of a matrix(0.25)",
+			"Properties of Inverse of Matrix(0.25)",
+			"Finding Inverse of a Matrix Using Adjoint(0.5)",
+			"Matrix Inverse Using Row Transformation(1)"
+		],
+		"Linear equations":
+		[
+			"Solution of Linear Equations Using Matrices(1)"
+		],
+		"Classification of matrices":
+		[
+			"Idempotent Matrix(0.5)",
+			"Periodic Matrix(0.5)",
+			"Nilpotent Matrix(0.5)",
+			"Involutory Matrix(0.5)",
+			"Orthogonal Matrix(0.5)",
+			"Complex Conjugate of a Matrix(0.5)",
+			"Hermitian Matrix(0.5)",
+			"Skew Hermitian Matrix(0.5)",
+			"Unitary Matrix(0.5)"
+		],
+		"Determinant":
+		[
+			"Definition of Determinant(0.25)",
+			"Minor, Cofactor(0.5)",
+			"Value of Determinant(0.5)"
+		],
+		"Properties of Determinant":
+		[
+			"Reflection(transpose) property(0.25) ",
+			"All zero property(0.25)",
+			"Repetition property(0.25)",
+			"Scalar multiplication property(0.25)",
+			"Switching property(0.25)",
+			"Sum property(0.5)",
+			"Property of invariance(0.5)",
+			"Factor property(0.5)"
+		],
+		"Determinant Multiplication":
+		[
+			"Determinant Multiplication(1)"
+		],
+		"System of Linear Equation ":
+		[
+			"System of Linear Equation (Determinant)(0.25)",
+			"Homogeneous Linear Equations Matrix (0.25)",
+			"Cramer's Rule(1)"
+		],
+		"Calculus of determinant":
+		[
+			"Differentiation of Determinant(1)",
+			"Integration of Determinant(0.5)"
+		],
+		"Cayley-hamilton theorem":
+		[
+			"Cayley-hamilton theorem(1)",
+			"Characteristic equation of a matrix(0.5)"
+		],
+		"Some other points":
+		[
+			"Rank of a Matrix(0.5)",
+			"Area of Triangle in Determinant Form(0.25)"
+		]
+	},
+	"Probability":
+	{
+		"Introduction and basics":
+		[
+			"Experiment in Probability(0.25)",
+			"Statistical Experiment in Probability(0.25)",
+			"Random Experiment in Probability(0.25)",
+			"Basic Information about pack of card(0.25)"
+		],
+		"Different Terms in Experiment in Probability":
+		[
+			"Sample Space in Probability(0.5)",
+			"Event in Probability(0.25)",
+			"Simple Event in Probability(0.25)",
+			"Exhaustive Events in Probability(0.25)",
+			"Equally likely Events in Probability(0.25)",
+			"Mutually Exclusive events in Probability(0.25)",
+			"Compound Event in Probability(0.25)"
+		],
+		"Operations in events":
+		[
+			"Event A or Event B in Probability(0.5)",
+			"Event A & Event B in Probability(0.5)",
+			"Event A but not Event B in Probability(0.25)",
+			"Event B but Not Event A in Probability(0.25)",
+			"Event not A & not event B in Probability(0.5)",
+			"Other set related operations in probability(0.5)"
+		],
+		"Dependent and independent events":
+		[
+			"Independent Event in Probability(0.5)",
+			"Theorem on Independent Event in Probability(0.5)",
+			"Properties of independent events(0.5)"
+		],
+		"Definition of probability":
+		[
+			"Classical Definition of Probability(0.25)",
+			"Complement Rule in Probability(0.25)",
+			"Value of Probability of an Event(0.25)",
+			"Set of Values in Probability(0.25)"
+		],
+		"Odds":
+		[
+			"Odds in Favour of an Event in Probability(0.5)",
+			"Odds Against an Event in Probability(0.25)"
+		],
+		"Conditional probability":
+		[
+			"Conditional Probability(0.5)",
+			"Multiplication Theorem in Probability(0.5)"
+		],
+		"Law of total probability and bayes’ theorem":
+		[
+			"Law of Total Probability(1)",
+			"Frequency (Posteriori) Definition(0.5)",
+			"Bayes’ Theorem in Probability(1)"
+		],
+		"Binomial probability":
+		[
+			"Binomial Distribution in Probability(0.75)",
+			"Binomial probability - Mean & variance(0.5)",
+			"Probability Distribution(0.5)",
+			"Mean & Variance of Probability(0.5)",
+			"Expected value(0.5)"
+		],
+		"Geometrical probability":
+		[
+			"Geometrical Application of Probability(1)"
+		]
+	},
+	"Set Theory and Relations":
+	{
+		"Sets and their representation":
+		[
+			"Definition of Set(0.5)",
+			"Roster Method(0.5) ",
+			"Set-Builder Method(0.5)"
+		],
+		"Types of Sets":
+		[
+			"Empty set(0.25)",
+			"Singleton set(0.25)",
+			"Finite set(0.25)",
+			"Infinite set(0.25)",
+			"Universal set(0.25)",
+			"Equal sets(0.25)",
+			"Equivalent sets(0.25)",
+			"Cardinal number of a finite set(0.25)"
+		],
+		"SubSet and power set":
+		[
+			"Definition of subset(0.5)",
+			"Proper Subsets(0.25)",
+			"Improper subsets(0.25)",
+			"Number of subsets(0.25)",
+			"Power set(0.25)"
+		],
+        "Operations on Sets":
+        [
+            "Union of sets(0.25)",
+            "Intersection of sets(0.25)",
+            "difference of sets(0.25)",
+            "Symmetric difference of two sets(0.25)",
+            "Complement of sets(0.25)",
+            "Venn Diagram(0.5)",
+            "Properties of Set Operation(0.5)",
+            "De morgan’s law(0.5)"
+        ],
+        "Formulas on operation of  sets":
+        [
+            "Formula for union of two sets(0.5) ",
+            "Formula for difference of two sets (0.25)",
+            "formula for union of three sets (0.5)",
+            "Some other formulas(0.5)"
+        ],
+        "Cartesian Product of Sets":
+        [
+            "Ordered pairs (0.25)",
+            "Cartesian product of two sets(0.5)",
+            "Theorem in Cartesian Product of Sets(0.5)"
+        ],
+        "Relations":
+        [
+            "Definition of Relations in Math(0.25)",
+            "Representation of relation in different forms(0.25)",
+            "Domain and Range and co-domain  of Relation(0.5)"
+        ],
+        "Types of Relations":
+        [
+            "Identity Relation(0.25)",
+            "Void Relation(0.25)",
+            "Universal Relation(0.25)",
+            "Reflexive Relation(0.25)",
+            "Symmetric Relation(0.25)",
+            "Anti-Symmetric Relation(0.25)",
+            "Transitive Relation(0.5)",
+            "Equivalence Relation(0.25)",
+            "Inverse Relation in Set Theory(0.25)"
+        ],
+        "Other important points ":
+        [
+            "Order of a Relation in Math(0.25)",
+            "Partial Order Relation in Maths(0.25)",
+            "Composition of two Relations(0.5)",
+            "Theorems on Binary Relationship(0.5)",
+            "Number of Relations(0.25)"
+        ]
+    },
+    "Mathematical Induction":
+    {
+        "Mathematical Statement Logic":
+        [
+            "Mathematical Statement Logic(0.25)"
+        ],
+        "Principle of Mathematical Induction":
+        [
+            "Principle of Mathematical Induction (0.5)"
+        ],
+        "First Principle of Mathematical Induction":
+        [
+            "First Principle of Mathematical Induction(1)"
+        ],
+        "Second Principle of Mathematical Induction":
+        [
+            "Second Principle of Mathematical Induction(0.5)"
+        ]
+    }
+}
+
+{
+    "Functions":
+    {
+        "Function":
+        [
+            "Basic Definitions of Function (0.25)",
+            "Definition of mapping (0.25)",
+            "Function as a set of ordered pairs(0.25)",
+            "Vertical line test in graphs for function(0.25)",
+            "Definition of domain(0.25)",
+            "Definition of range(0.25)",
+            "Definition of co-domain(0.25)",
+            "Rules for the domain of function(1)",
+            "Rules for range of function(1)"
+        ],
+        "Graph & Properties of all Elementary Function":
+        [
+            "Constant, Linear, Quadratic(0.25)",
+            "Exponential Functions Basics(0.25)",
+            "Logarithmic Functions Basics(0.5)",
+            "Inverse Trigonometric Functions Basics(0.5)",
+            "Special Functions IxI, {x}, [x]    (1)",
+            "Special function sgn(x)   (0.25)",
+            "Wavy Curve (0.5)",
+            "Explicit and Implicit Functions(0.25)"
+        ],
+        "Kinds of functions":
+        [
+            "One one function(0.25)",
+            "Many one function(0.25)",
+            "into function(0.25)",
+            "Onto function(0.25)",
+            "Method to determine one one and many one(0.5)",
+            "Method to determine onto and into(0.5)",
+            "Basics of Monotonicity in Function(0.25)"
+        ],
+        "Number of functions":
+        [
+            "Total number of function(0.25)",
+            "Total no. of one one functions(0.25)",
+            "Total no. of many one function(0.25)",
+            "Total no. of onto functions (0.25)",
+            "Total no. of into functions(0.25)",
+            "Total no. of constant functions(0.25)"
+        ],
+        "Even and odd functions":
+        [
+            "Even  Function Definition(0.25)",
+            "Odd function definition(0.25)",
+            "Properties of odd and even functions(0.25)",
+            "Extension of domain(even,odd)(0.25)"
+        ],
+        "Periodic functions ":
+        [
+            "Periodicity Function Definition (0.25)",
+            "Rules for finding period of functions(0.75)"
+        ],
+        "Composite functions ":
+        [
+            "Composite Function Definition (0.5)",
+            "Properties of composite functions(0.5)"
+        ],
+        "Inverse functions":
+        [
+            "Inverse Functions definition(0.5)",
+            "Properties of inverse functions(0.5)"
+        ],
+        "Binary operation":
+        [
+            "Binary operations (0.5)",
+            "Types of binary operations(0.5)",
+            "Existence of identity(0.25)",
+            "Existence of inverse(0.25)"
+        ],
+        "Equal and identical functions":
+        [
+            "Definition of identical functions(0.5)"
+        ],
+        "Some other important concepts":
+        [
+            "Graphical Transformation of Functions(1.5)",
+            "Functional Equations(1)"
+        ]
+    },
+    "Application of Derivatives":
+    {
+        "Derivative":
+        [
+            "Definition of Derivatives(0.25)",
+            "Geometrical Meaning of Derivatives(0.25)"
+        ],
+        "Rate Measured in Calculus":
+        [
+            "Interpretation of dy/dx as a rate measure(1.5)"
+        ],
+        "Error and approximations":
+        [
+            "Errors and Approximation in Application of Differentiation(0.25)",
+            "Approximate change (0.25)",
+            "relative change(0.5)",
+            "Percentage change(0.5)"
+        ],
+        "Tangents and normals":
+        [
+            "Slope of Tangent and Normal line(0.25)",
+            "Equation of tangent(0.5)",
+            "Equation of normal(0.5)",
+            "Important points about slope of tangent(0.25)",
+            "Tangent from an external point(0.5)",
+            "Length of tangent , normal(0.5)",
+            "Length of subtangent , subnormal(0.5)",
+            "Angle between curves(0.5)",
+            "Shortest distance between curves(0.5)",
+            "Asymptotes in Calculus (1)"
+        ],
+        "Mean value theorem":
+        [
+            "Rolle's theorem(0.75)",
+            "Geometrical meaning of rolle's theorem(0.25)",
+            "Lagrange’s mean value theorem(0.75)",
+            "Another form of lagrange’s mean value theorem(0.5)",
+            "Geometrical meaning of lagrange's mean value theorem(0.25)",
+            "Cauchy’s mean value theorem(0.75)"
+        ],
+        "Monotonicity":
+        [
+            "Introduction(0.5)",
+            "Monotonicity of a function at a point(0.25)",
+            "Monotonicity in an interval(0.5)",
+            "Concavity and Convexity (0.5)",
+            "Point of inflection (0.5)",
+            "Inequalities using monotonicity(0.75) "
+        ],
+        "Maxima and Minima":
+        [
+            "Critical points(0.5)",
+            "Basic theorem of maxima and minima(0.25)",
+            "Turning points of a function(0.25)",
+            "First Derivative Test(0.5)",
+            "Second Derivative Test(0.5)",
+            "Nth derivative test(0.5)",
+            "Maxima and minima for non differentiable functions(0.5)",
+            "Max and Min Values of Function in Domain(0.5)",
+            "Max and Min Values of Function in an Interval(0.5)",
+            "Concept of global maxima/minima(0.5)",
+            "Application of extremum(1)",
+            "Graph of rational function (1)"
+        ]
+    },
+    "Differential Coefficient ":
+    {
+        "Introduction of derivative":
+        [
+            "Definition of derivative dy/dx(0.25)",
+            "Physical Interpretation of Derivative dy/dx(0.25)",
+            "Geometrical Interpretation of Derivative dy/dx(0.25)",
+            "First Principle of Differentiation(0.75)"
+        ],
+        "Differential Coefficients of Standard Function":
+        [
+            "Differential Coefficient of Algebraic Functions(0.5)",
+            "Differential Coefficient of Trigonometric Functions(0.5)",
+            "Differential Coefficient of Logarithmic Functions(0.5)",
+            "Differential Coefficient of Exponential Functions(0.5)",
+            "Differential Coefficients of Inverse Functions(0.5)",
+            "Differentiation by Substitution(0.5)"
+        ],
+        "Algebra of Differentiation":
+        [
+            "Addition Rule in Differentiation(0.25)",
+            "Subtraction Rule in Differentiation(0.25)",
+            "Product Rule in Differentiation(0.5)",
+            "Quotient Rule in Differentiation(0.5)"
+        ],
+        "Differentiation of Composite Functions":
+        [
+            "Differentiation of Composite Functions(0.5)",
+            "Chain Rule of Differentiation(0.5)"
+        ],
+        "Differentiation of implicit function":
+        [
+            "Differentiation of implicit function(0.5)",
+            "Chain Rule for Implicit Functions(0.5)",
+            "Differentiation of Logarithmic Functions using the Chain Rule(0.5)",
+            "Direct formula for implicit functions(0.5)"
+        ],
+        "Differentiation of Parametric Equations":
+        [
+            "Differentiation of Parametric Equations(0.5)"
+        ],
+        "Differentiation using logarithm":
+        [
+            "Differentiation using logarithm(0.5)"
+        ],
+        "Derivative of Infinite Series":
+        [
+            "Derivative of Infinite Series(0.5)"
+        ],
+        "Differentiation of a Function w.r.t Another Function":
+        [
+            "Differentiation of a Function w.r.t Another Function(0.5)"
+        ],
+        "Differentiation of determinant":
+        [
+            "Differentiation of determinant(0.5)"
+        ],
+        "Higher order derivatives":
+        [
+            "Higher order derivatives(0.5)"
+        ],
+        "Determining a function using first principle":
+        [
+            "Determining a function using first principle(0.5)"
+        ]
+    },
+    "Continuity and Differentiability":
+    {
+        "Continuity":
+        [
+            "Continuity Definition(0.5)",
+            "Directional continuity(0.25)",
+            "Continuity at a Point Calculus(0.25)",
+            "Continuity in Interval(0.25)"
+        ],
+        "Types of Discontinuity ":
+        [
+            "Removable discontinuity(0.5)",
+            "Missing point discontinuity(0.5)",
+            "Finite type non removable discontinuity(0.5)",
+            "Infinite type non removable discontinuity(0.5)",
+            "Oscillatory type non removable discontinuity(0.25)"
+        ],
+        "Continuity of standard functions":
+        [
+            "Continuity of Standard Functions(0.25)",
+            "Properties of Continuous Functions (0.5)"
+        ],
+        "Continuity of special types of functions":
+        [
+            "Continuity of Composite Functions(0.5)",
+            "Continuity of functions involving G.I.F.(0.5)",
+            "Continuity of functions involving signum function(0.5)",
+            "Continuity of functions involving limit(0.5)",
+            "Continuity of functions defined differently for rational and irrational(0.5) "
+        ],
+        "Intermediate Value Theorem":
+        [
+            "Intermediate Value Theorem(0.5)"
+        ],
+        "Differentiability":
+        [
+            "Definition of Differentiability (0.5)",
+            "Differentiability at a Point(0.5)",
+            "Differentiability in Intervals(0.25)",
+            "Differentiability and continuity(0.5)"
+        ],
+        "Differentiability of standard functions":
+        [
+            "Differentiability of Standard Functions(0.5)",
+            "Properties of Differentiable Functions(0.5)",
+            "Differentiability by theorems(0.5)",
+            "Differentiability by graph of function(0.5)",
+            "Differentiability by differentiation(0.5)"
+        ],
+        "How can a function fail to be differentiable":
+        [
+            "Corner(0.25) ",
+            "Discontinuity(0.25) ",
+            "Vertical tangent(0.25)"
+        ]
+    },
+    "Limits":
+    {
+        "Introduction and basics ":
+        [
+            "Concept of limits(0.5)",
+            "Limits Definition(0.25)",
+            "Left Hand & Right Hand Limits(0.25)",
+            "Existence of Limits (0.25)",
+            "Indeterminate Forms of Limits(0.25)",
+            "Algebra of Limits(0.25)"
+        ],
+        "Methods of Evaluating Limits ":
+        [
+            "Direct substitution method(0.25)",
+            "Factorization method(0.5)",
+            "Rationalization method(0.5)",
+            "Using Standard Limits (0.5)"
+        ],
+        "Standard limits":
+        [
+            "Algebraic limits(0.5)",
+            "Trigonometric limits(0.5)",
+            "Inverse trigonometric limits(0.5)",
+            "Exponential limits(0.5)",
+            "Logarithmic limits(0.5)"
+        ],
+        "Limits of the form lim(x->a) f(x)^g(x)":
+        [
+            "0^0 form(0.5)",
+            "infitiy^0 form(0.5)",
+            "1^infinity form(0.5)"
+        ],
+        "Important expansions":
+        [
+            "Expansion of log(1+x)(0.25)",
+            "Expansion of eˣ(0.25)",
+            "Expansion of aˣ(0.25)",
+            "Expansion of sinx(0.25)",
+            "Expansion of cosx(0.25)",
+            "Expansion of tanx(0.25)"
+        ],
+        "Sandwich theorem":
+        [
+            "Sandwich theorem(0.5)"
+        ],
+        "L’Hopital’s rule":
+        [
+            "L’Hopital’s rule(1)"
+        ],
+        "Newton leibniz rule":
+        [
+            "Newton leibniz rule(0.5)"
+        ],
+        "Limit of composite functions":
+        [
+            "Limit of composite functions(0.5)"
+        ],
+        "Improper Limits":
+        [
+            "Improper Limits(0.5)"
+        ]
+    }
+}
+
+{
+    "Indefinite Integration":
+    {
+        "Antiderivative Integral":
+        [
+            "Integration as reverse of differentiation(0.25)",
+            "Geometrical interpretation of indefinite integrals(0.25)"
+        ],
+        "Elementary integration":
+        [
+            "Fundamental integration formula(0.25)",
+            "Properties and algebra of indefinite integration(0.25)"
+        ],
+        "Integration by substitution":
+        [
+            "Integration of type f(ax+b)(0.5)",
+            "Integration of type f’(x)/f(x)(0.5)",
+            "Integration of type 1/(asinx+bcosx)(0.5)",
+            "Integration of typef(g(x)).g’(x)(0.5)",
+            "Integration of type sinᵐx.cosⁿx(0.5)",
+            "Some standard trigonometric substitutions(0.5)"
+        ],
+        "Algebraic integration":
+        [
+            "Integration of type 1/quadratic(0.5)",
+            "Integration of type linear/quadratic(0.5)",
+            "Integration of type 1/√quadratic(0.5)",
+            "Integration of type linear/√quadratic(0.5)",
+            "Integration of type quadratic/√quadratic(0.5)",
+            "Integration of type √quadratic(0.5)",
+            "Integration of type linear.√quadratic(0.5)",
+            "Integration of type quadratic√quadratic(0.5)",
+            "Integration of type quadratic /ax⁴+b(1)",
+            "Integration of type 1/linear√linear(0.5)",
+            "Integration of type 1/linear√quadratic(0.5)",
+            "Integration of type 1/quadratic√linear(0.5)",
+            "Integration of type 1/quadratic√quadratic(0.5)",
+            "Integrals involving Exponentials(0.5)"
+        ],
+        "Some special trigonometric forms":
+        [
+            "Integration of type 1/(asin²x+bcos²x+c)(0.5)",
+            "Integration of type 1/(asinx+bcosx)²  (0.5)",
+            "Integration of type 1/(asinx+bcosx+c)(0.75)",
+            "Integration of type (psinx+qcosx+r)/(asinx+bcosx+c)(0.75)"
+        ],
+        "Miscellaneous Methods of Integration":
+        [
+            "Integration by parts(0.75)",
+            "Integration by cancellation(0.5)",
+            "Integration by partial fractions(1)"
+        ],
+        "Some important concepts":
+        [
+            "Reduction formula integration(1)",
+            "Euler substitution integration(0.75)",
+            "Integrals that cannot be evaluated(0.25)"
+        ]
+    },
+    "Definite Integration":
+    {
+        "Introduction":
+        [
+            "Definition of Definite Integrals(0.25)",
+            "Finite Integration - Sign Convention(0.25)",
+            "Geometrical Interpretation(0.25)",
+            "Improper Definite Integrals(0.25)"
+        ],
+        "Properties of Definite Integrals":
+        [
+            "Changing dummy variable(0.5)",
+            "Interchanging limits(0.5)",
+            "Splitting limits(0.5)",
+            "Definite integration of odd and even functions(0.5)",
+            "King property [ f(x)→ f(a+b-x)](0.75)",
+            "Splitting limit 0 to 2a into o to a(0.5)",
+            "Properties related to periodic functions(0.75)"
+        ],
+        "Newton leibnitz’s rule ":
+        [
+            "Newton Leibniz Theorem(0.5)",
+            "Functional Equation Involving Definite Integral(0.75)"
+        ],
+        "Inequalities":
+        [
+            "Properties related to inequalities of definite integral(0.5)",
+            "Miscellaneous Methods for Solving Inequalities (0.5)",
+            "Estimation of integral(0.5)",
+            "Mean Value Theorem for Definite Integrals(0.5)"
+        ],
+        "Other important concepts":
+        [
+            "Definite Integral as Limit of Sum(1)",
+            "Beta and Gamma Function(1)",
+            "Reduction formula(1)",
+            "Wallis formula(1)"
+        ]
+    },
+    "Differential Equation:":
+    {
+        "Introduction":
+        [
+            "Definition Differential Equation(0.25)",
+            "Order of Differential Equation(0.25)",
+            "Degree of Differential Equation(0.25)",
+            "First Order and First Degree Differential Equations(0.25)",
+            "Formation of D. E. by Eliminating Arbitrary Constants(0.5)"
+        ],
+        "Solution of differential equations":
+        [
+            "Variable Separable form of Differential Equations(0.5)",
+            "Reducible to Variable separable form of differential equations(0.5)",
+            "General form of variable separation (0.5)",
+            "Homogeneous form of Differential Equations(0.75)",
+            "Reducible to homogeneous form of differential equations(0.75)",
+            "Integrating Factor(0.25)",
+            "Linear Differentiation of Equation(0.75)",
+            "Differential Equations Reducible to Linear Form(0.5)",
+            "Bernoulli Differential Equations(0.5)",
+            "Exact Differential Equation(0.5)"
+        ],
+        "Application of Differential Equations":
+        [
+            "Physical Application of Differential Equations(0.5)",
+            "Geometrical Application of Differential Equations(0.5)",
+            "Differential Equation Growth and Decay Problems(0.5)",
+            "Differential equation temperature problem(0.5)",
+            "Differential equation dilution problems(0.75)",
+            "Differential Equation in Circuits(0.5)"
+        ],
+        "Trajectory in Differential Equations":
+        [
+            "Isogonal trajectories(0.25)",
+            "Orthogonal trajectories(0.25)",
+            "Method to find orthogonal trajectories(0.5)"
+        ]
+    },
+    "Area Under Curves:":
+    {
+        "Curve Sketching for Calculus":
+        [
+            "Symmetry about x-axis ,y-axis, y=x(0.25)",
+            "Points where curve crosses axes(0.25)",
+            "intervals of monotonicity(0.25)",
+            "Examine when x and y tends to infinity(0.25)"
+        ],
+        "Different cases of bounded area":
+        [
+            "Area Bounded by Curves and x axis(0.5)",
+            "Area Bounded by Curves and y axis(0.5)",
+            "Area of Between Curves(0.5)",
+            "Area of Standard Curves(0.5)"
+        ]
+    }
+}
+
+{
+    "Point and Straight Line":
+    {
+        "Coordinate system":
+        [
+            "Cartesian Coordinate System(0.25)",
+            "Pythagoras Theorem(0.25)",
+            "Distance Formula in Coordinate Geometry(0.25)",
+            "Section Formula in Coordinate Geometry(0.5)",
+            "Ratio & Proportion Coordinate Geometry(0.25)",
+            "Similar Triangles Coordinate Geometry(0.25)",
+            "Area of Triangle in Coordinate Geometry(0.5)",
+            "Collinearity Coordinate Geometry(0.25)",
+            "Polar coordinates(0.5)",
+            "Euler line (0.25)"
+        ],
+        "Imp Points of Triangle":
+        [
+            "Centroid of a Triangle in Coordinate Geometry(0.5)",
+            "Incentre of a Triangle in Coordinate Geometry(0.5)",
+            "Circumcentre of a Triangle in Coordinate Geometry(0.5)",
+            "Orthocentre in Coordinate Geometry(0.5)"
+        ],
+        "Imp points of quadrilateral":
+        [
+            "Parallelogram in Coordinate Geometry(0.25)",
+            "Rectangle in Coordinate Geometry(0.25)",
+            "Rhombus in Coordinate Geometry(0.25)",
+            "Square in Coordinate Geometry(0.25)",
+            "Kite in Coordinate Geometry(0.25)",
+            "Cyclic Quadrilateral in Coordinate Geometry(0.25)"
+        ],
+        "Locus of a Point":
+        [
+            "Meaning of locus",
+            "Equation of locus",
+            "Steps to find the locus of a point "
+        ],
+        "Change of axes":
+        [
+            "Shifting of origin(0.5)",
+            "Rotation of axes(0.5)",
+            "Removal of the term xy from ax²+2hxy+by²+2gx+2fy+c(0.5)"
+        ],
+        "Slope":
+        [
+            "Inclination of line (0.25)",
+            "Slope of line with given inclination(0.25)",
+            "slope of line joining two points(0.25)",
+            "Slope of line ax+by+c=0(0.25)",
+            "Collinearity of three points by slope(0.25)",
+            "Angle between two lines (0.25)",
+            "Condition of parallelism and perpendicularity(0.25)"
+        ],
+        "Equation of line":
+        [
+            "Equation of line parallel to x-axis(0.25)",
+            "Equation of line parallel to y axis (0.25)",
+            "Equation of line in point slope form (0.25)",
+            "Equation of line in two point form(0.25)",
+            "Equation of line in slope intercept form(0.25)",
+            "Equation of line in intercept form(0.25)",
+            "Equation of line in normal form(0.25)",
+            "Equation of line in parametric form(0.25)",
+            "Equation of line parallel and perpendicular to a given line(0.25)"
+        ],
+        "Point of intersection of two  Lines":
+        [
+            "Intersection point of two lines(0.25)",
+            "Concurrence of 3 Lines(0.5)"
+        ],
+        "Distance of a Point from a Line":
+        [
+            "Distance of a point from a line(0.5)",
+            "Distance between two parallel lines(0.25)",
+            "Image/foot of Perpendicular of a Point in a Line(0.75)",
+            "Concept of reflection of ray(0.5)"
+        ],
+        "Position of Point w.r.t. Line":
+        [
+            "Position of points w.r.t. Line(0.25)",
+            "Position of point inside a triangle(0.5)"
+        ],
+        "Angle bisectors":
+        [
+            "Equation of angle bisectors(0.25)",
+            "Determination of acute/obtuse angle bisectors(0.5)",
+            "Determination of angle bisector containing/not containing (α,β)(0.5) "
+        ],
+        "Family of Straight Lines":
+        [
+            "Family of Straight Lines(0.5)"
+        ],
+        "Pair of straight lines":
+        [
+            "Definition(0.5)",
+            "General equation of 2nd degree(0.5)",
+            "condition for general equation of 2nd degree to represent     p.o.s.l.(0.5)",
+            "Factorisation of general equation of 2nd degree(0.5)",
+            "Homogeneous Equations in 2nd Degree(0.5)",
+            "Slope quadratic (0.5)",
+            "Angle between p.o.s.l.(homogeneous/non homogeneous)(0.5)",
+            "Condition for parallel intersecting and coincident lines(0.5)",
+            "Point of intersection of p.o.s.l.(0.5)"
+        ],
+        "Equation of Angle Bisector":
+        [
+            "Equation of Angle Bisector for Homogeneous Equation(0.5)",
+            "Equation of Angle Bisector for non Homogeneous Equation(0.5)"
+        ],
+        "Homogenisation of non Homogeneous Equation ":
+        [
+            "Homogenisation(0.5)",
+            "Family of curves(1)",
+            "Equation of p.o.s.l. Joining point of intersection of a curve and line(0.5)"
+        ],
+        "Some other important concepts ":
+        [
+            "Product of perpendicular distances from a point to a p.o.s.l.(0.75)",
+            "Distance between parallel p.o.s.l.(0.75)"
+        ]
+    },
+    "Circle":
+    {
+        "Definition and equation of circle":
+        [
+            "Circle Definition(0.25)",
+            "Similar triangles and properties of circles(0.25)"
+        ],
+        "Equation of a circle in different forms":
+        [
+            "Center radius form of circle(0.25)",
+            "General equation of circle(0.25)",
+            "Condition for a 2nd degree equation to represent a circle(0.25)",
+            "Diameter form of circle(0.5)",
+            "Parametric equation of a circle(0.5)",
+            "Circle Passing Through Three Non-collinear Points(0.5)",
+            "Parametric coordinate of any point on circle(0.25)",
+            "Equation of chord joining A(α) and B(β)(0.5)"
+        ],
+        "Position of point w.r.t. circle":
+        [
+            "Position of a point w.r.t. circle(0.25)",
+            "Maximum and minimum distance of circle from a point(0.25)"
+        ],
+        "Intercepts of Circle on a line":
+        [
+            "Intercept on x-axis(0.25)",
+            "Intercept on y-axis(0.25)",
+            "intercept on y=mx+c(0.5)"
+        ],
+        "Equation of tangent and normal":
+        [
+            "Line and circle intersection(0.5)",
+            "Point form of tangent (0.5)",
+            "Slope form of tangent (0.5)",
+            "Parametric form of tangent (0.25)",
+            "Equation of normal to circle(0.25)",
+            "Tangent from a point outside the circle(0.5)",
+            "Length of tangent(0.5)",
+            "Intersection point of tangents at  A(α) and B(β)(0.5)",
+            "Equation of pair of tangents(0.75)"
+        ],
+        "Common tangents to two circles":
+        [
+            "Types of common tangents(0.25)",
+            "No. of common tangents(0.75)",
+            "Length of common tangents(0.5)",
+            "Equation of common tangents(0.75)"
+        ],
+        "Power of a point":
+        [
+            "Power of a point(0.75)"
+        ],
+        "Intersection of two circles":
+        [
+            "Angle between 2 circles(0.5)",
+            "Orthogonality of circle(0.5)"
+        ],
+        "Important terms and their equations":
+        [
+            "Director circle to a circle(0.75)",
+            "Chord of contact of circle(0.5)",
+            "Chord of circle with given midpoint(0.5)",
+            "Common chord to two circles(0.5)",
+            "Length of common chord(0.5)"
+        ],
+        "Family of circles":
+        [
+            "Family of circle passing through two points(0.5)",
+            "Family of circle touching a line at a point only(0.5)",
+            "Family of circles sharing same axis(0.5)"
+        ],
+        "Pole and Polar":
+        [
+            "Concept of Pole and Polar(0.5)",
+            "Properties of Pole and Polar(0.5)",
+            "Conjugate point and Conjugate line(0.25)"
+        ],
+        "Radical axis and radical centre":
+        [
+            "Definition of radical axis(0.25)",
+            "Position of radical axis(0.5)",
+            "Equation of radical axis   (0.25)",
+            "Radical center of three circles(0.25)",
+            "Position of radical centre(0.25)",
+            "Properties related to radical axis and radical centre(0.5)"
+        ],
+        "Coaxial systems of circles":
+        [
+            "Coaxial systems of circles(0.5)",
+            "Limiting points of a coaxial systems of circles(0.5)"
+        ]
+    },
+    "Vector":
+    {
+        "Introduction of vectors":
+        [
+            "Scalar and vector quantities(0.25)",
+            "Representation of vectors(0.25)"
+        ],
+        "Types of vectors":
+        [
+            "Zero vector(0.2)",
+            "Unit vector(0.2)",
+            "Like and unlike vector(0.2)  ",
+            "Collinear or parallel vector(0.2)",
+            "Coinitial and coterminous vector(0.2)",
+            "Negative of a vector(0.2)",
+            "Localised and free vectors(0.2)",
+            "Equality of vectors(0.25)"
+        ],
+        "Position vector and direction cosines":
+        [
+            "Definition of position vector(0.25)",
+            "Direction cosines(0.25)",
+            "Direction ratios and magnitude of a vector(0.25) "
+        ],
+        "Algebra of vectors":
+        [
+            "Triangle law  of addition(0.25)",
+            "Parallelogram law of addition(0.25)",
+            "Properties of vector addition(0.25)",
+            "Subtraction of vectors(0.25)",
+            "Multiplication of a vector by a scalar(0.25)",
+            "Section formula(0.5)"
+        ],
+        "Collinearity and coplanarity of vectors ":
+        [
+            "Relation between two collinear vectors(0.25)",
+            "Test of collinearity of three points(0.25)",
+            "Theorem on coplanar vectors(0.5)",
+            "Test of coplanarity of three vectors(0.25)",
+            "Test of coplanarity of four points(0.25)",
+            "Linear dependence and independence of vectors(0.25)",
+            "Properties of linearly dependent and independent vectors(0.5)"
+        ],
+        "Product of two vectors":
+        [
+            "Dot Product of Vectors(0.25)",
+            "Angle between two vectors(0.25)",
+            "Properties of dot product (0.5)",
+            "Projection of Vector a on b(0.5)",
+            "Component of vector along and perpendicular to another vector(0.25)",
+            "Cross product of two vectors (0.25)",
+            "Properties of cross product(0.5)",
+            "Area of a Triangle and parallelogram(0.5)"
+        ],
+        "Product of three vector":
+        [
+            "Scalar Triple Product(0.25)",
+            "Geometrical interpretation of scalar triple product(0.5)",
+            "Properties of scalar triple product (0.75)",
+            "Volume of tetrahedron(0.5)",
+            "Important points about tetrahedron(0.75)",
+            "Vector Triple Product(0.75)"
+        ],
+        "Product of four vectors":
+        [
+            "Scalar product of four vectors(0.5)",
+            "Vector product of four vectors(0.75)"
+        ],
+        "Reciprocal System of Vectors":
+        [
+            "Definition(0.25)",
+            "Properties of reciprocal system of vectors(0.5)"
+        ],
+        "Solution of vector equation":
+        [
+            "Solution of vector equation(0.5) "
+        ]
+    },
+    "Three Dimensional Geometrical System":
+    {
+        "Introduction":
+        [
+            "Coordinate of a Point in 3D(0.25)",
+            "Vector Joining Two Points(0.25)",
+            "Using Pythagoras Theorem to Prove Distance Formula 3D(0.25)",
+            "Point in 3D Space(0.25)",
+            "Section Formula in 3D Geometry(0.5)"
+        ],
+        "Important Points in a Triangle 3 Dimensional Geometry":
+        [
+            "Centroid of a Triangle in 3D(0.25)",
+            "Incentre of a Triangle in 3D(0.5)",
+            "Orthocentre of a Triangle in 3D(0.5)",
+            "Circumcenter of a Triangle in 3D(0.5)"
+        ],
+        "Direction cosine and direction ratios":
+        [
+            "Direction cosines of a Line Joining Two Points(0.5)",
+            "Direction Ratios of a Line Joining Two Points(0.25)"
+        ],
+        "Line in 3D and Vectors ":
+        [
+            "Line Passes through a point Parallel to given Vector(0.25) ",
+            "Line Passing through one point, given Direction Ratio Parallel to line(0.25)",
+            "Line Joining two Position Vectors in 3D(0.25)",
+            "Line Joining two Points in 3D(0.25)",
+            "Equation of Line through one Point Perpendicular to Two given vectors(0.5)",
+            "Angle between two lines in 3D(0.5)",
+            "Angle bisector of two lines (3D)(0.5)",
+            "Parallel Lines in Vectors(0.25)",
+            "Skew Lines in Vectors(0.25)",
+            "Shortest Distance Between Lines (3D)(0.5)",
+            "Equation of line of Shortest Distance between two Skew Lines(0.5)",
+            "Length of Perpendicular from given Point to Other Line (3D)(0.5)",
+            "Foot of Perpendicular of a Point on a Line/Plane in 3D(0.25)",
+            "Image of Point by a given Line in 3D(0.25)",
+            "Point of intersection of two lines in 3D(0.5)"
+        ],
+        "Plane in 3D and vectors":
+        [
+            "General equation of plane (0.25)",
+            "Equation of a Plane through one Point and one perpendicular vector(0.25)",
+            "Plane Passing through a point and Containing given Line (3D)(0.5)",
+            "Intercept form of a Plane (3D)(0.25)",
+            "Normal form of a Plane (3D)(0.25)",
+            "Equation of plane through three given points(0.25)",
+            "Equation of plane through given point and parallel to two given vectors(0.25)",
+            "Equation of plane in parametric form(0.5)",
+            "Equation of plane parallel to a given plane(0.25)"
+        ],
+        "Foot of perpendicular and image of a point in plane":
+        [
+            "Length of Perpendicular from a Point on a Plane in 3D(0.5)",
+            "Foot of Perpendicular from a Point on a Plane (3D)(0.25)",
+            "Image of a Point by Plane (3D)(0.25)",
+            "Distance between two parallel planes(0.25)"
+        ],
+        "Angle between two planes ":
+        [
+            "Angle between two Planes (3D)(0.25)",
+            "Condition for parallel planes(0.25)"
+        ],
+        "Angle Bisector between two Planes (3D)":
+        [
+            "Equation of angle bisector plane(0.5)",
+            "Angle bisector containing/not containing a point(0.5)",
+            "bisector of acute/obtuse angle(0.5)"
+        ],
+        "Family of planes":
+        [
+            "Equation of line of Intersection of two Plane (3D)(0.5)",
+            "Planes Passing through line of Intersection of two Planes (0.25)"
+        ],
+        "Plane and Line":
+        [
+            "Intersection Point of Line and Plane (3D)(0.25)",
+            "Angle between Line and Plane (3D)(0.25)",
+            "Condition for a line to lie in given plane(0.5)",
+            "Condition for two lines to be coplanar(0.25)",
+            "Reflection of a Line by Plane (3D)(0.5)",
+            "Projection of a Line on Plane (3D)(0.5)",
+            "Line of Greatest Slope (3D)(0.5)"
+        ],
+        "Sphere":
+        [
+            "Equation of sphere with centre and radius(0.25)",
+            "General equation of sphere(0.25)",
+            "diametric form of the equation of sphere(0.25)",
+            "Section of a sphere by a plane(0.25)",
+            "Condition of tangency of a plane to a sphere(0.5)"
+        ]
+    },
+    "Ellipse":
+    {
+        "Definition and basics":
+        [
+            "Locus Ellipse Definition(0.25)",
+            "Standard equation of ellipse(0.25)",
+            "Basics of Ellipse when a>b(0.5)",
+            "Basics of ellipse when a<b(0.25)",
+            "Recognition of Equation of Ellipse from general equation(0.25)",
+            "Second definition of ellipse(0.25)",
+            "Equation of ellipse referred to two perpendicular lines(0.5) "
+        ],
+        "Auxiliary Circle and Parametric Coordinates (Ellipse)":
+        [
+            "Auxiliary circle and eccentric angle(0.25)",
+            "Parametric coordinates (0.25)"
+        ],
+        "Equation of chord ":
+        [
+            "Equation of Chord of an Ellipse(0.5)",
+            "Condition for Focal Chord of the Ellipse(0.25)"
+        ],
+        "Position of a Point w.r.t. Ellipse":
+        [
+            "Position of a Point w.r.t. Ellipse(0.25)"
+        ],
+        "Line and Ellipse":
+        [
+            "Intersection of a line and ellipse(0.25)",
+            "Condition of tangency(0.25)"
+        ],
+        "Equation of tangent ":
+        [
+            "Slope form of Tangent to an Ellipse(0.5)",
+            "Point form of Tangent to an Ellipse(0.25)",
+            "Parametric form of Tangent to an Ellipse(0.25)",
+            "Point of Contact of Tangent to Ellipse(0.25)",
+            "Intersection point of tangents(0.5)",
+            "Tangent to Ellipse from a Point(0.5)",
+            "Equation of pair of tangents(0.5)"
+        ],
+        "Important terms and their equation":
+        [
+            "Director Circle of an Ellipse(0.5)",
+            "Chord of Contact of an Ellipse(0.5)",
+            "Chord to Ellipse with Given midpoint(0.5)",
+            "Pole and polar(0.5)"
+        ],
+        "Normal to an Ellipse":
+        [
+            "Point form of Normal to an Ellipse(0.25)",
+            "Slope form of Normal to an Ellipse(0.5)",
+            "Parametric form of Normal to an Ellipse(0.25)",
+            "Point of Contact of Normal to an Ellipse(0.25)",
+            "Subtangent and Subnormal to an Ellipse(0.5)",
+            "Number of normals from a point(0.5)",
+            "Conormal points (1)",
+            "Reflection property of ellipse(0.5)"
+        ],
+        "Diameter of an Ellipse":
+        [
+            "Definition of diameter(0.25)",
+            "Equation of diameter(0.25)",
+            "Conjugate Diameters of Ellipse(0.25)",
+            "Properties of Conjugate Diameters of an Ellipse(0.5)",
+            "Equations Conjugate Diameters of Ellipse(0.25)"
+        ],
+        "Standard properties of ellipse":
+        [
+            "Standard properties(1)"
+        ]
+    },
+    "Parabola":
+    {
+        "Introduction":
+        [
+            "Section of cone by different planes(0.5)",
+            "Conic section definition(0.25)",
+            "equation of conic with given focus ,directrix and eccentricity(0.5)",
+            "Axis , vertex , focal chord , latus rectum and centre(0.5)",
+            "Recognition of conics(0.25)",
+            "How to find centre of conic(0.5)"
+        ],
+        "Locus Parabola":
+        [
+            "Definition of parabola(0.25)",
+            "Standard equation of parabola(0.25)",
+            "Term related to parabola(0.25)",
+            "Other form of parabola and terms related to them(0.5)",
+            "Parabola with vertex at (h,k) and axis parallel to coordinate axes(0.5)"
+        ],
+        "Focal chord":
+        [
+            "Equation of chord of parabola (0.25)",
+            "Relation between parameters of ends of focal chord(0.25)",
+            "Length of focal chord(0.5)",
+            "Properties of Focal Chord of Parabola(0.25)"
+        ],
+        "Position of a Point w.r.t Parabola":
+        [
+            "Position of a Point w.r.t Parabola(0.25)"
+        ],
+        "Intersection of line and Parabola":
+        [
+            "Intersection of line and parabola(0.25)",
+            "Condition of tangency (0.25)"
+        ],
+        "Tangent to a Parabola":
+        [
+            "Slope form of Tangent to a Parabola(0.5)",
+            "Point form of Tangent to a Parabola(0.25)",
+            "Parametric form of Tangent to a Parabola(0.25)",
+            "Point of Tangency Parabola(0.25)",
+            "Tangent to Parabola from an Exterior Point(0.5)",
+            "Intersection point of tangents(0.25)"
+        ],
+        "Normal to a Parabola":
+        [
+            "Slope form of Normal to Parabola(0.5)",
+            "Point form of Normal to Parabola(0.25)",
+            "Parametric form of Normal to Parabola(0.25)",
+            "Normal Intersecting the Parabola(0.5)",
+            "Point of Intersection and other Properties(0.5)",
+            "Number of normals(0.25)",
+            "Conormal Points and their properties(0.75)",
+            "Length of Tangent, Subtangent, Normal, Subnormal to Parabola(0.5)",
+            "Reflection Property of Parabola(0.5)"
+        ],
+        "Equation of Chord of Contact to a Parabola ":
+        [
+            "Equation of Chord of Contact to a Parabola T = 0(0.5)"
+        ],
+        "Equation of Chord of Parabola with given Midpoint":
+        [
+            "Equation of Chord of Parabola with given Midpoint(0.5)"
+        ],
+        "Pair of Tangents to the Parabola":
+        [
+            "Pair of Tangents equation (0.5)"
+        ],
+        "Director circle":
+        [
+            "Definition of diameter (0.25)",
+            "Equation of Diameter of a Parabola(0.25)"
+        ],
+        "Pole and Polar of Parabola":
+        [
+            "Pole and polar of parabola(0.5)"
+        ],
+        "Some standard properties of parabola":
+        [
+            "Standard properties (0.75)"
+        ]
+    },
+    "Hyperbola":
+    {
+       "Introduction":
+       [
+         "Definition(0.25)",
+         "Standard equation of hyperbola(0.25)",
+         "Basic terms related to hyperbola(0.5)",
+         "Conjugate hyperbola(0.25)",
+         "Equation of hyperbola referred to two perpendicular lines as axes(0.25)"
+       ],
+       "Position of a point w.r.t Hyperbola":
+       [
+         "Position of a point w.r.t Hyperbola(0.25)"
+       ],
+       "Equation of chord":
+       [
+         "Equation of Chord of Hyperbola(0.5)",
+         "Condition for focal Chord of Hyperbola(0.25)"
+       ],
+       "Line and hyperbola":
+       [
+         "Intersection of line and Hyperbola(0.25)",
+         "Condition of tangency(0.25)"
+       ],
+       "Tangent to Hyperbola":
+       [
+         "Slope form of Tangent to Hyperbola(0.5)",
+         "Point form of Tangent to Hyperbola(0.25)",
+         "Parametric form of Tangent to Hyperbola(0.25)",
+         "Point of Contact of Tangent to Hyperbola(0.25)",
+         "Point of intersection of tangents of Hyperbola(0.5)",
+         "Tangent to Hyperbola from a Point(0.5)"
+       ],
+       "Normal to an Hyperbola":
+       [
+         "Point form of Normal to Hyperbola(0.25)",
+         "Slope form of Normal to Hyperbola(0.5)",
+         "Parametric form of Normal to Hyperbola(0.25)",
+         "Point of Contact of Normal to Hyperbola(0.25)",
+         "Point of Intersection of Normals to Hyperbola(0.5)",
+         "Conormal points and their properties(0.75)",
+         "Subtangent and subnormal(0.25)",
+         "Reflection property of hyperbola(0.5)"
+       ],
+       "Director Circle Hyperbola":
+       [
+         "Director circle (0.5)"
+       ],
+       "Chord of Contact of Hyperbola":
+       [
+           "Chord of contact(0.5)"
+       ],
+       "Chord of Hyperbola with given Midpoint":
+       [
+           "Chord of contact (0.5)"
+       ],
+       "Pair of Tangents to Hyperbola from an Outside Point":
+       [
+           "Equation of pair of tangents(0.5)"
+       ],
+       "Diameter of Hyperbola":
+       [
+           "Definition and equation of diameter(0.5)",
+           "Conjugate Diameters of Hyperbola(0.25)",
+           "Properties of Conjugate Diameters of Hyperbola(0.5)",
+           "Equation Conjugate Diameters of Hyperbola(0.25)"
+       ],
+       "Pole and polar of hyperbola":
+       [
+           "Pole & Polar of Hyperbola(0.25)"
+       ],
+       "Asymptotes of hyperbola":
+       [
+           "Definition of asymptotes(0.25)",
+           "Equation of asymptotes(1)",
+           "Properties of asymptotes (0.5)"
+       ],
+       "Highlights and Properties of Hyperbola":
+       [
+           "Highlights and properties  (1)"
+       ],
+       "Rectangular Hyperbola":
+       [
+           "General equation of Rectangular Hyperbola(0.5)",
+           "Parametric Coordinates of Rectangular Hyperbola(0.25)",
+           "Equation of chord (0.5)",
+           "Equation of Tangent to Rectangular Hyperbola(0.5)",
+           "Equation of Normal Rectangular Hyperbola(0.5)"
+       ]
+    }
+}
+{
+    "Statistics":
+    {
+      "Fundamental of Statistics":
+      [
+        "Mean of individual observations   (0.25)",
+        "Mean of discrete frequency distribution(0.5)",
+        "Mean of continuous frequency distribution(0.5)",
+        "Median of individual observations   (0.25)",
+        "Median of discrete frequency distribution(0.5)",
+        "Median of continuous frequency distribution(0.5)",
+        "Mode of individual observations   (0.25)",
+        "Mode of discrete frequency distribution(0.5)",
+        "Mode of continuous frequency distribution(0.5)",
+        "Empirical Relations in Statistics(0.25)",
+        "Combined mean of two series(0.5)",
+        "Weighted mean(0.5)"
+      ],
+      "Measures of Dispersion":
+      [
+        "Range in Dispersion in Statistics(0.25)",
+        "Mean deviation(0.25)",
+        "Standard deviation(0.25)",
+        "Quartile deviation(0.25)"
+      ],
+      "Mean deviation":
+      [
+        "Mean Deviation about Mean and Median(0.25)",
+        "Mean Deviation for Individual Observation(0.5)",
+        "Mean Deviation for Discrete Frequency Distribution(0.75)",
+        "Mean Deviation for Continuous Frequency Distribution(0.75)",
+        "Merits and Limitations of Mean Deviation(0.25)",
+        "Coefficient Mean Deviation in Statistics(0.5)"
+      ],
+      "Variance and standard deviation":
+      [
+        "Variance in Statistics(0.25)",
+        "Variance of Individual Observation in Statistics(0.5)",
+        "Variance of Discrete Frequency Distribution in Statistics(0.75)",
+        "Variance of  Continuous Frequency Distribution in Statistics(0.75)",
+        "Standard Deviation in Statistics(0.25)",
+        "Coefficient of Variation in Statistics(0.5)",
+        "Coefficient Standard Deviation in Statistics(0.25)"
+      ],
+      "Quartile deviation":
+      [
+        "Quartile in statistics(0.5)",
+        "Quartile Deviation in Statistics(0.75)",
+        "Coefficient of Quartile Deviation in Statistics(0.5)"
+      ],
+      "Skewness":
+      [
+        "Skewed distribution and skewness(0.25)",
+        "Positively skewed distribution(0.25)",
+        "Negatively skewed distribution(0.25)",
+        "Karl pearson’s coefficient of skewness(0.5)"
+      ]
+    },
+    "Mathematical Reasoning": 
+    {
+      "Statement": 
+      [
+        "Statements in mathematical reasoning(0.25)",
+        "Simple & Compound statements (0.25)",
+        "Negation of a statement(0.25)"
+      ],
+      "Logical connectives": 
+      [
+        "Connective ‘and’(0.25)",
+        "Connective ‘or’(0.5)",
+        "Truth Value & Truth Table for connectives(0.25)",
+      ],
+      "Quantifiers":
+      [
+        "Quantifiers (there exists,for all)(0.5)"
+      ],
+      "Implications":
+      [
+        "Implication ‘‘if-then’’(0.25)",
+        "Implication ‘’if and only if’’(0.25)",
+        "Truth table for implications(0.25)"
+      ],
+      "Logical Equivalence in mathematical reasoning":
+      [
+        "Meaning of Logical equivalence(0.5)"
+      ],
+      "Contrapositive, converse and contradiction of a statement":
+      [
+        "Contrapositive of a statement(0.25)",
+        "Converse of a statement(0.25)",
+        "Contradiction of a statement(0.25)"
+      ],
+      "Tautology and fallacy":
+      [
+        "Tautology in mathematical reasoning(0.5)",
+        "Fallacy in mathematical reasoning(0.5)"
+      ],
+      "Validity of a statement":
+      [
+        "Validity of statement ‘’p and q’’(0.25)",
+        "Validity of statement ‘’p or q’’ (0.25)",
+        "Validity of statement ‘’if p then q’’(0.25)",
+        "Validity of statement ‘’p if and only if q’’(0.25)"
+      ],
+      "Algebra of statements":
+      [
+        "Idempotent Law (mathematical reasoning)(0.2)",
+        "Commutative Law (mathematical reasoning)(0.2)",
+        "Distributive Law (mathematical reasoning)(0.2)",
+        "De morgan's Law (mathematical reasoning)(0.2)",
+        "Identity Law (mathematical reasoning)(0.2)",
+        "Complement Law (mathematical reasoning)(0.2)",
+        "Involution Law (mathematical reasoning)(0.2)"
+      ]
+    }
+}

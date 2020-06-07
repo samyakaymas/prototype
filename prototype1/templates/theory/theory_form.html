@@ -1,0 +1,75 @@
+
+{% extends 'layout.html' %}
+{% block content %}
+
+
+<link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+<script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+<form method="post" id="theoryForm" data-sub-url="{% url 'ajaxLoadSubConcepts' %}" novalidate>
+    {% csrf_token %}
+    <table>
+      {{ form.as_table }}
+    </table>
+    <button type="submit">Save</button>
+  </form>
+  
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script>
+    
+        $('[name="concept"]').change(()=>{
+            $.ajax({
+                url: "{% url 'ajaxLoadSubConcepts' %}", 
+                data: {
+                    'concept': $('[name="concept"]').val()
+                },
+                success: (data)=> {  
+                    $('[name="subConcept"]').html(data);
+                }
+            });
+        })
+        // var quills={}
+        // document.querySelectorAll(".rtf").forEach((item)=>{
+        //     quills[item.id]=new Quill(`#${item.id}`,{
+        //                         modules: {
+        //                         toolbar: true
+        //                         },
+        //                         placeholder: 'Compose an epic...',
+        //                         theme: 'snow'
+        //                     });
+        // })
+        // $("#theoryForm").submit(()=>{
+        //     for(id in quills){
+        //         document.getElementById(`id_${id}`).value=quills[id].getContents()
+        //     }
+        // });
+
+
+
+
+
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {% endblock %}
