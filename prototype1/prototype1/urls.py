@@ -16,8 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
+
+from ckeditor_uploader import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('theory/',include("theory.urls")),
-    path('',include("accounts.urls"))
+    path('',include("accounts.urls")),
+    path('ckeditor/upload/', views.upload, name='ckeditor_upload'),
+    path('ckeditor/browse/', views.browse, name='ckeditor_browse'),
 ]

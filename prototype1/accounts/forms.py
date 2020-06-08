@@ -1,6 +1,9 @@
 from django import forms
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth import get_user_model
+from .models import CK
+from ckeditor_uploader.widgets import CKEditorUploadingWidget
+from django.forms import ModelForm
 
 class SignUpForm(UserCreationForm):
     first_name = forms.CharField(max_length=30, required=True)
@@ -17,3 +20,9 @@ class SignInForm(AuthenticationForm):
     class Meta:
         model = get_user_model()
         fields = ('username', 'password')
+
+class CKForm(ModelForm):
+    # content = forms.CharField(widget=CKEditorUploadingWidget())
+    class Meta:
+        model = CK
+        fields = "__all__"

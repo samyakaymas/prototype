@@ -3,8 +3,8 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth.decorators import login_required
 from django.shortcuts import render, redirect
-from .forms import SignUpForm, SignInForm
-
+from .forms import SignUpForm, SignInForm, CKForm
+from .models import CK
 @login_required
 def index(request):
     return render(request,'index.html')
@@ -52,3 +52,15 @@ def signup(request):
 def signout(request):
     logout(request)
     return redirect('/')
+
+def ckedit(request):
+    if request.method == "POST":
+        form = CKForm(request.POST)
+        if form.is_valid():
+            content = form.cleaned_data.get('content')
+            form.save()
+            print(content)
+            return render(request, 'output.html', {'content': content})
+    # ck = CK.objects.filter(pk=2)[0]
+    form = CKForm()
+    return render(request, 'ckeditor.html', {'form': form})
